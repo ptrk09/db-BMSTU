@@ -1,0 +1,7 @@
+WITH RECURSIVE pow3(n) AS (
+	SELECT 3
+	UNION ALL
+	SELECT n * n FROM pow3
+	WHERE n < 10000
+)
+SELECT n FROM pow3;
