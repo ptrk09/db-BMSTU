@@ -1,232 +1,234 @@
-NOC,nameCountry,capital,population,region
-AFG,afghanistan,Kabul,26023100,Asia
-AHO,Netherlands Antilles,,,
-ALB,albania,Tirana,2895947,Europe
-ALG,algeria,Algiers,38700000,Africa
-AND,Andorra,,,
-ANG,angola,Luanda,24383301,Africa
-ANT,antigua and barbuda,Saint John's,86295,Americas
-ANZ,Australasia,,,
-ARG,argentina,Buenos Aires,42669500,Americas
-ARM,armenia,Yerevan,3009800,Asia
-ARU,aruba,Oranjestad,101484,Americas
-ASA,american samoa,Pago Pago,55519,Oceania
-AUS,australia,Canberra,23696900,Oceania
-AUT,austria,Vienna,8527230,Europe
-AZE,azerbaijan,Baku,9552500,Asia
-BAH,Bahamas,,,
-BAN,bangladesh,Dhaka,157486000,Asia
-BAR,barbados,Bridgetown,285000,Americas
-BDI,burundi,Bujumbura,9530434,Africa
-BEL,belgium,Brussels,11225469,Europe
-BEN,benin,Porto-Novo,9988068,Africa
-BER,bermuda,Hamilton,64237,Americas
-BHU,bhutan,Thimphu,755030,Asia
-BIH,bosnia and herzegovina,Sarajevo,3791622,Europe
-BIZ,belize,Belmopan,349728,Americas
-BLR,belarus,Minsk,9475100,Europe
-BOH,Bohemia,,,
-BOL,bolivia,Sucre,10027254,Americas
-BOT,botswana,Gaborone,2024904,Africa
-BRA,brazil,Brasília,203586000,Americas
-BRN,bahrain,Manama,1316500,Asia
-BRU,brunei,Bandar Seri Begawan,393372,Asia
-BUL,bulgaria,Sofia,7245677,Europe
-BUR,burkina faso,Ouagadougou,17322796,Africa
-CAF,central african republic,Bangui,4709000,Africa
-CAM,cambodia,Phnom Penh,15184116,Asia
-CAN,canada,Ottawa,35540419,Americas
-CAY,cayman islands,George Town,55456,Americas
-CGO,Congo (Brazzaville),,,
-CHA,chad,N'Djamena,13211000,Africa
-CHI,chile,Santiago,17819054,Americas
-CHN,china,Beijing,1367110000,Asia
-CIV,Cote d'Ivoire,,,
-CMR,cameroon,Yaoundé,20386799,Africa
-COD,Congo (Kinshasa),,,
-COK,cook islands,Avarua,14974,Oceania
-COL,colombia,Bogotá,47907800,Americas
-COM,comoros,Moroni,763952,Africa
-CPV,cape verde,Praia,518467,Africa
-CRC,costa rica,San José,4713168,Americas
-CRO,croatia,Zagreb,4267558,Europe
-CRT,Crete,,,
-CUB,cuba,Havana,11210064,Americas
-CYP,cyprus,Nicosia,858000,Europe
-CZE,czech republic,Prague,10521600,Europe
-DEN,denmark,Copenhagen,5655750,Europe
-DJI,djibouti,Djibouti,886000,Africa
-DMA,dominica,Roseau,71293,Americas
-DOM,dominican republic,Santo Domingo,10378267,Americas
-ECU,ecuador,Quito,15888900,Americas
-EGY,egypt,Cairo,87668100,Africa
-ERI,eritrea,Asmara,6536000,Africa
-ESA,el salvador,San Salvador,6401240,Americas
-ESP,spain,Madrid,46507760,Europe
-EST,estonia,Tallinn,1315819,Europe
-ETH,ethiopia,Addis Ababa,87952991,Africa
-EUN,Unified Team,,,
-FIJ,fiji,Suva,859178,Oceania
-FIN,finland,Helsinki,5470437,Europe
-FRA,france,Paris,66078000,Europe
-FRG,West Germany,,,
-FSM,federated states of micronesia,Palikir,101351,Oceania
-GAB,gabon,Libreville,1711000,Africa
-GAM,Gambia,,,
-GBR,united kingdom,London,64105654,Europe
-GBS,Guinea Bissau,,,
-GDR,East Germany,,,
-GEO,georgia,Tbilisi,4490500,Asia
-GEQ,equatorial guinea,Malabo,1430000,Africa
-GER,germany,Berlin,80783000,Europe
-GHA,ghana,Accra,27043093,Africa
-GRE,greece,Athens,10992589,Europe
-GRN,grenada,St. George's,103328,Americas
-GUA,guatemala,Guatemala City,15806675,Americas
-GUI,guinea,Conakry,10628972,Africa
-GUM,guam,Hagåtña,159358,Oceania
-GUY,guyana,Georgetown,784894,Americas
-HAI,haiti,Port-au-Prince,10745665,Americas
-HKG,hong kong,City of Victoria,7234800,Asia
-HON,honduras,Tegucigalpa,8725111,Americas
-HUN,hungary,Budapest,9879000,Europe
-INA,indonesia,Jakarta,252164800,Asia
-IND,india,New Delhi,1263930000,Asia
-IOA,Individual Olympic Athletes,,,
-IRI,iran,Tehran,77966400,Asia
-IRL,ireland,Dublin,6378000,Europe
-IRQ,iraq,Baghdad,36004552,Asia
-ISL,iceland,Reykjavik,328170,Europe
-ISR,israel,Jerusalem,8268400,Asia
-ISV,United States Virgin Islands,,,
-ITA,italy,Rome,60769102,Europe
-IVB,British Virgin Islands,,,
-JAM,jamaica,Kingston,2717991,Americas
-JOR,jordan,Amman,6666960,Asia
-JPN,japan,Tokyo,127080000,Asia
-KAZ,kazakhstan,Astana,17377800,Asia
-KEN,kenya,Nairobi,41800000,Africa
-KGZ,kyrgyzstan,Bishkek,5776570,Asia
-KIR,kiribati,South Tarawa,106461,Oceania
-KOR,south korea,Seoul,50423955,Asia
-KOS,Kosovo,,,
-KSA,saudi arabia,Riyadh,30770375,Asia
-KUW,kuwait,Kuwait City,3268431,Asia
-LAO,laos,Vientiane,6693300,Asia
-LAT,latvia,Riga,1991800,Europe
-LBA,libya,Tripoli,6253000,Africa
-LBR,liberia,Monrovia,4397000,Africa
-LCA,saint lucia,Castries,184000,Americas
-LES,lesotho,Maseru,2098000,Africa
-LIB,Maid of Lebanon,,,
-LIE,liechtenstein,Vaduz,37132,Europe
-LTU,lithuania,Vilnius,2927310,Europe
-LUX,luxembourg,Luxembourg,549700,Europe
-MAD,madagascar,Antananarivo,21842167,Africa
-MAL,Malaya,,,
-MAR,morocco,Rabat,33465000,Africa
-MAS,malaysia,Kuala Lumpur,30430500,Asia
-MAW,malawi,Lilongwe,15805239,Africa
-MDA,moldova,Chișinău,3557600,Europe
-MDV,maldives,Malé,341256,Asia
-MEX,mexico,Mexico City,119713203,Americas
-MGL,mongolia,Ulan Bator,2987733,Asia
-MHL,marshall islands,Majuro,56086,Oceania
-MKD,Macedonia,,,
-MLI,mali,Bamako,15768000,Africa
-MLT,malta,Valletta,416055,Europe
-MNE,Montenegro,,,
-MON,monaco,Monaco,36950,Europe
-MOZ,mozambique,Maputo,25041922,Africa
-MRI,mauritius,Port Louis,1261208,Africa
-MTN,mauritania,Nouakchott,3545620,Africa
-MYA,Myanmar,,,
-NAM,namibia,Windhoek,2113077,Africa
-NBO,North Borneo,,,
-NCA,nicaragua,Managua,6134270,Americas
-NED,netherlands,Amsterdam,16881000,Europe
-NEP,nepal,Kathmandu,27646053,Asia
-NFL,Newfoundland,,,
-NGR,nigeria,Abuja,178517000,Africa
-NIG,niger,Niamey,17138707,Africa
-NOC,Team,,,
-NOR,norway,Oslo,5156450,Europe
-NRU,nauru,Yaren,10084,Oceania
-NZL,new zealand,Wellington,4547900,Oceania
-OMA,oman,Muscat,4089076,Asia
-PAK,pakistan,Islamabad,188410000,Asia
-PAN,panama,Panama City,3713312,Americas
-PAR,paraguay,Asunción,6893727,Americas
-PER,peru,Lima,30814175,Americas
-PHI,philippines,Manila,100697400,Asia
-PLE,Palestine,,,
-PLW,palau,Ngerulmud,20901,Oceania
-PNG,papua new guinea,Port Moresby,7398500,Oceania
-POL,poland,Warsaw,38496000,Europe
-POR,portugal,Lisbon,10477800,Europe
-PRK,north korea,Pyongyang,25027000,Asia
-PUR,puerto rico,San Juan,3615086,Americas
-QAT,qatar,Doha,2269672,Asia
-RHO,Rhodesia,,,
-ROT,Refugee Olympic Athletes,,,
-ROU,romania,Bucharest,19942642,Europe
-RSA,south africa,Pretoria,54002000,Africa
-RUS,russia,Moscow,146233000,Europe
-RWA,rwanda,Kigali,10996891,Africa
-SAA,Saar,,,
-SAM,samoa,Apia,187820,Oceania
-SCG,Serbia and Montenegro,,,
-SEN,senegal,Dakar,13508715,Africa
-SEY,seychelles,Victoria,89949,Africa
-SGP,singapore,Singapore,5469700,Asia
-SKN,saint kitts and nevis,Basseterre,55000,Americas
-SLE,sierra leone,Freetown,6205000,Africa
-SLO,slovenia,Ljubljana,2064966,Europe
-SMR,san marino,City of San Marino,32743,Europe
-SOL,solomon islands,Honiara,581344,Oceania
-SOM,somalia,Mogadishu,10806000,Africa
-SRB,serbia,Belgrade,7186862,Europe
-SRI,sri lanka,Colombo,20277597,Asia
-SSD,south sudan,Juba,11384393,Africa
-STP,Sao Tome and Principe,,,
-SUD,sudan,Khartoum,37289406,Africa
-SUI,switzerland,Bern,8183800,Europe
-SUR,suriname,Paramaribo,534189,Americas
-SVK,slovakia,Bratislava,5415949,Europe
-SWE,sweden,Stockholm,9737521,Europe
-SWZ,swaziland,Lobamba,1106189,Africa
-SYR,syria,Damascus,22964324,Asia
-TAN,tanzania,Dodoma,47421786,Africa
-TCH,Czechoslovakia,,,
-TGA,tonga,Nuku'alofa,103252,Oceania
-THA,thailand,Bangkok,64871000,Asia
-TJK,tajikistan,Dushanbe,8161000,Asia
-TKM,turkmenistan,Ashgabat,5838064,Asia
-TLS,Timor Leste,,,
-TOG,togo,Lomé,6993000,Africa
-TPE,Chinese Taipei,,,
-TTO,trinidad and tobago,Port of Spain,1328019,Americas
-TUN,tunisia,Tunis,10982754,Africa
-TUR,turkey,Ankara,76667864,Asia
-TUV,tuvalu,Funafuti,11323,Oceania
-UAE,united arab emirates,Abu Dhabi,9446000,Asia
-UAR,United Arab Republic,,,
-UGA,uganda,Kampala,34856813,Africa
-UKR,ukraine,Kiev,42973696,Europe
-UNK,Unknown,,,
-URS,Soviet Union,,,
-URU,uruguay,Montevideo,3404189,Americas
-USA,united states,Washington D.C.,319259000,Americas
-UZB,uzbekistan,Tashkent,30492800,Asia
-VAN,vanuatu,Port Vila,264652,Oceania
-VEN,venezuela,Caracas,30206307,Americas
-VIE,vietnam,Hanoi,89708900,Asia
-VIN,saint vincent and the grenadines,Kingstown,109000,Americas
-VNM,South Vietnam,,,
-WIF,West Indies Federation,,,
-YAR,North Yemen,,,
-YEM,yemen,Sana'a,25956000,Asia
-YMD,South Yemen,,,
-YUG,Yugoslavia,,,
-ZAM,zambia,Lusaka,15023315,Africa
-ZIM,zimbabwe,Harare,13061239,Africa
+NOC;nameCountry;capital;population;region
+AFG;afghanistan;Kabul;26023100;Asia
+AHO;Netherlands Antilles;;;
+ALB;albania;Tirana;2895947;Europe
+ALG;algeria;Algiers;38700000;Africa
+AND;Andorra;;;
+ANG;angola;Luanda;24383301;Africa
+ANT;antigua and barbuda;Saint John's;86295;Americas
+ANZ;Australasia;;;
+ARG;argentina;Buenos Aires;42669500;Americas
+ARM;armenia;Yerevan;3009800;Asia
+ARU;aruba;Oranjestad;101484;Americas
+ASA;american samoa;Pago Pago;55519;Oceania
+AUS;australia;Canberra;23696900;Oceania
+AUT;austria;Vienna;8527230;Europe
+AZE;azerbaijan;Baku;9552500;Asia
+BAH;Bahamas;;;
+BAN;bangladesh;Dhaka;157486000;Asia
+BAR;barbados;Bridgetown;285000;Americas
+BDI;burundi;Bujumbura;9530434;Africa
+BEL;belgium;Brussels;11225469;Europe
+BEN;benin;Porto-Novo;9988068;Africa
+BER;bermuda;Hamilton;64237;Americas
+BHU;bhutan;Thimphu;755030;Asia
+BIH;bosnia and herzegovina;Sarajevo;3791622;Europe
+BIZ;belize;Belmopan;349728;Americas
+BLR;belarus;Minsk;9475100;Europe
+BOH;Bohemia;;;
+BOL;bolivia;Sucre;10027254;Americas
+BOT;botswana;Gaborone;2024904;Africa
+BRA;brazil;Brasília;203586000;Americas
+BRN;bahrain;Manama;1316500;Asia
+BRU;brunei;Bandar Seri Begawan;393372;Asia
+BUL;bulgaria;Sofia;7245677;Europe
+BUR;burkina faso;Ouagadougou;17322796;Africa
+CAF;central african republic;Bangui;4709000;Africa
+CAM;cambodia;Phnom Penh;15184116;Asia
+CAN;canada;Ottawa;35540419;Americas
+CAY;cayman islands;George Town;55456;Americas
+CGO;Congo (Brazzaville);;;
+CHA;chad;N'Djamena;13211000;Africa
+CHI;chile;Santiago;17819054;Americas
+CHN;china;Beijing;1367110000;Asia
+CIV;Cote d'Ivoire;;;
+CMR;cameroon;Yaoundé;20386799;Africa
+COD;Congo (Kinshasa);;;
+COK;cook islands;Avarua;14974;Oceania
+COL;colombia;Bogotá;47907800;Americas
+COM;comoros;Moroni;763952;Africa
+CPV;cape verde;Praia;518467;Africa
+CRC;costa rica;San José;4713168;Americas
+CRO;croatia;Zagreb;4267558;Europe
+CRT;Crete;;;
+CUB;cuba;Havana;11210064;Americas
+CYP;cyprus;Nicosia;858000;Europe
+CZE;czech republic;Prague;10521600;Europe
+DEN;denmark;Copenhagen;5655750;Europe
+DJI;djibouti;Djibouti;886000;Africa
+DMA;dominica;Roseau;71293;Americas
+DOM;dominican republic;Santo Domingo;10378267;Americas
+ECU;ecuador;Quito;15888900;Americas
+EGY;egypt;Cairo;87668100;Africa
+ERI;eritrea;Asmara;6536000;Africa
+ESA;el salvador;San Salvador;6401240;Americas
+ESP;spain;Madrid;46507760;Europe
+EST;estonia;Tallinn;1315819;Europe
+ETH;ethiopia;Addis Ababa;87952991;Africa
+EUN;Unified Team;;;
+FIJ;fiji;Suva;859178;Oceania
+FIN;finland;Helsinki;5470437;Europe
+FRA;france;Paris;66078000;Europe
+FRG;West Germany;;;
+FSM;federated states of micronesia;Palikir;101351;Oceania
+GAB;gabon;Libreville;1711000;Africa
+GAM;Gambia;;;
+GBR;united kingdom;London;64105654;Europe
+GBS;Guinea Bissau;;;
+GDR;East Germany;;;
+GEO;georgia;Tbilisi;4490500;Asia
+GEQ;equatorial guinea;Malabo;1430000;Africa
+GER;germany;Berlin;80783000;Europe
+GHA;ghana;Accra;27043093;Africa
+GRE;greece;Athens;10992589;Europe
+GRN;grenada;St. George's;103328;Americas
+GUA;guatemala;Guatemala City;15806675;Americas
+GUI;guinea;Conakry;10628972;Africa
+GUM;guam;Hagåtña;159358;Oceania
+GUY;guyana;Georgetown;784894;Americas
+HAI;haiti;Port-au-Prince;10745665;Americas
+HKG;hong kong;City of Victoria;7234800;Asia
+HON;honduras;Tegucigalpa;8725111;Americas
+HUN;hungary;Budapest;9879000;Europe
+I;;;;
+INA;indonesia;Jakarta;252164800;Asia
+IND;india;New Delhi;1263930000;Asia
+IOA;Individual Olympic Athletes;;;
+IRI;iran;Tehran;77966400;Asia
+IRL;ireland;Dublin;6378000;Europe
+IRQ;iraq;Baghdad;36004552;Asia
+ISL;iceland;Reykjavik;328170;Europe
+ISR;israel;Jerusalem;8268400;Asia
+ISV;United States Virgin Islands;;;
+ITA;italy;Rome;60769102;Europe
+IVB;British Virgin Islands;;;
+JAM;jamaica;Kingston;2717991;Americas
+JOR;jordan;Amman;6666960;Asia
+JPN;japan;Tokyo;127080000;Asia
+KAZ;kazakhstan;Astana;17377800;Asia
+KEN;kenya;Nairobi;41800000;Africa
+KGZ;kyrgyzstan;Bishkek;5776570;Asia
+KIR;kiribati;South Tarawa;106461;Oceania
+KOR;south korea;Seoul;50423955;Asia
+KOS;Kosovo;;;
+KSA;saudi arabia;Riyadh;30770375;Asia
+KUW;kuwait;Kuwait City;3268431;Asia
+LAO;laos;Vientiane;6693300;Asia
+LAT;latvia;Riga;1991800;Europe
+LBA;libya;Tripoli;6253000;Africa
+LBR;liberia;Monrovia;4397000;Africa
+LCA;saint lucia;Castries;184000;Americas
+LES;lesotho;Maseru;2098000;Africa
+LIB;Maid of Lebanon;;;
+LIE;liechtenstein;Vaduz;37132;Europe
+LTU;lithuania;Vilnius;2927310;Europe
+LUX;luxembourg;Luxembourg;549700;Europe
+M;;;;
+MAD;madagascar;Antananarivo;21842167;Africa
+MAL;Malaya;;;
+MAR;morocco;Rabat;33465000;Africa
+MAS;malaysia;Kuala Lumpur;30430500;Asia
+MAW;malawi;Lilongwe;15805239;Africa
+MDA;moldova;Chișinău;3557600;Europe
+MDV;maldives;Malé;341256;Asia
+MEX;mexico;Mexico City;119713203;Americas
+MGL;mongolia;Ulan Bator;2987733;Asia
+MHL;marshall islands;Majuro;56086;Oceania
+MKD;Macedonia;;;
+MLI;mali;Bamako;15768000;Africa
+MLT;malta;Valletta;416055;Europe
+MNE;Montenegro;;;
+MON;monaco;Monaco;36950;Europe
+MOZ;mozambique;Maputo;25041922;Africa
+MRI;mauritius;Port Louis;1261208;Africa
+MTN;mauritania;Nouakchott;3545620;Africa
+MYA;Myanmar;;;
+NAM;namibia;Windhoek;2113077;Africa
+NBO;North Borneo;;;
+NCA;nicaragua;Managua;6134270;Americas
+NED;netherlands;Amsterdam;16881000;Europe
+NEP;nepal;Kathmandu;27646053;Asia
+NFL;Newfoundland;;;
+NGR;nigeria;Abuja;178517000;Africa
+NIG;niger;Niamey;17138707;Africa
+NOC;Team;;;
+NOR;norway;Oslo;5156450;Europe
+NRU;nauru;Yaren;10084;Oceania
+NZL;new zealand;Wellington;4547900;Oceania
+OMA;oman;Muscat;4089076;Asia
+PAK;pakistan;Islamabad;188410000;Asia
+PAN;panama;Panama City;3713312;Americas
+PAR;paraguay;Asunción;6893727;Americas
+PER;peru;Lima;30814175;Americas
+PHI;philippines;Manila;100697400;Asia
+PLE;Palestine;;;
+PLW;palau;Ngerulmud;20901;Oceania
+PNG;papua new guinea;Port Moresby;7398500;Oceania
+POL;poland;Warsaw;38496000;Europe
+POR;portugal;Lisbon;10477800;Europe
+PRK;north korea;Pyongyang;25027000;Asia
+PUR;puerto rico;San Juan;3615086;Americas
+QAT;qatar;Doha;2269672;Asia
+RHO;Rhodesia;;;
+ROT;Refugee Olympic Athletes;;;
+ROU;romania;Bucharest;19942642;Europe
+RSA;south africa;Pretoria;54002000;Africa
+RUS;russia;Moscow;146233000;Europe
+RWA;rwanda;Kigali;10996891;Africa
+SAA;Saar;;;
+SAM;samoa;Apia;187820;Oceania
+SCG;Serbia and Montenegro;;;
+SEN;senegal;Dakar;13508715;Africa
+SEY;seychelles;Victoria;89949;Africa
+SGP;singapore;Singapore;5469700;Asia
+SKN;saint kitts and nevis;Basseterre;55000;Americas
+SLE;sierra leone;Freetown;6205000;Africa
+SLO;slovenia;Ljubljana;2064966;Europe
+SMR;san marino;City of San Marino;32743;Europe
+SOL;solomon islands;Honiara;581344;Oceania
+SOM;somalia;Mogadishu;10806000;Africa
+SRB;serbia;Belgrade;7186862;Europe
+SRI;sri lanka;Colombo;20277597;Asia
+SSD;south sudan;Juba;11384393;Africa
+STP;Sao Tome and Principe;;;
+SUD;sudan;Khartoum;37289406;Africa
+SUI;switzerland;Bern;8183800;Europe
+SUR;suriname;Paramaribo;534189;Americas
+SVK;slovakia;Bratislava;5415949;Europe
+SWE;sweden;Stockholm;9737521;Europe
+SWZ;swaziland;Lobamba;1106189;Africa
+SYR;syria;Damascus;22964324;Asia
+TAN;tanzania;Dodoma;47421786;Africa
+TCH;Czechoslovakia;;;
+TGA;tonga;Nuku'alofa;103252;Oceania
+THA;thailand;Bangkok;64871000;Asia
+TJK;tajikistan;Dushanbe;8161000;Asia
+TKM;turkmenistan;Ashgabat;5838064;Asia
+TLS;Timor Leste;;;
+TOG;togo;Lomé;6993000;Africa
+TPE;Chinese Taipei;;;
+TTO;trinidad and tobago;Port of Spain;1328019;Americas
+TUN;tunisia;Tunis;10982754;Africa
+TUR;turkey;Ankara;76667864;Asia
+TUV;tuvalu;Funafuti;11323;Oceania
+UAE;united arab emirates;Abu Dhabi;9446000;Asia
+UAR;United Arab Republic;;;
+UGA;uganda;Kampala;34856813;Africa
+UKR;ukraine;Kiev;42973696;Europe
+UNK;Unknown;;;
+URS;Soviet Union;;;
+URU;uruguay;Montevideo;3404189;Americas
+USA;united states;Washington D.C.;319259000;Americas
+UZB;uzbekistan;Tashkent;30492800;Asia
+VAN;vanuatu;Port Vila;264652;Oceania
+VEN;venezuela;Caracas;30206307;Americas
+VIE;vietnam;Hanoi;89708900;Asia
+VIN;saint vincent and the grenadines;Kingstown;109000;Americas
+VNM;South Vietnam;;;
+WIF;West Indies Federation;;;
+YAR;North Yemen;;;
+YEM;yemen;Sana'a;25956000;Asia
+YMD;South Yemen;;;
+YUG;Yugoslavia;;;
+ZAM;zambia;Lusaka;15023315;Africa
+ZIM;zimbabwe;Harare;13061239;Africa

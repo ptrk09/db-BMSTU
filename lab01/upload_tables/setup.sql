@@ -1,3 +1,8 @@
+\c postgres;
+DROP DATABASE db_olympic;
+CREATE DATABASE db_olympic;
+\c db_olympic;
+
 CREATE TABLE games(
     idGame INTEGER NOT NULL,
     city VARCHAR,
@@ -9,7 +14,7 @@ CREATE TABLE games(
 
 
 CREATE TABLE nation(
-    NOC VARCHAR(3) NOT NULL UNIQUE,
+    NOC VARCHAR,
     nameCountry VARCHAR,
     capital VARCHAR,
     population INTEGER,
